@@ -1,0 +1,23 @@
+.window{
+  border:2px solid #bc6060;
+  float: left;
+  height: 60px;
+  border-radius: 50%;
+  position: relative;
+  background-color: #b9d2ff;
+}
+button{
+  float: left;
+  margin: 20px 20px;
+  background-color: #ffeaa1;
+  border-radius: 50%;
+  height: 30px
+}
+p{
+  text-align:center;
+  display: inline-block;
+  padding: 0px 10px;
+  color: black;
+  font-size: 20px;
+
+}
